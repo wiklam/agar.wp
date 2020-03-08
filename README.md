@@ -5,7 +5,7 @@ Simpler version of Agar.io
 Library requirements are specified in requirements.txt
 
 # Game
-Game allow us to play simpler version agar.io. Steer your ball using arrow keys, try to get as big as you can.
+Game allow us to play simpler version agar.io using network sockets. Steer your ball using arrow keys, try to get as big as you can.
 
 # Before running the game
 User have to change the server ip addres in module network.py, the ip addres is displayed when the server starts - in line 15L self.server = "..."
